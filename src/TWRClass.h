@@ -32,7 +32,7 @@
  *
  */
 
-#include <XPowersAXP2101.tpp>
+#include <XPowersLib.h>
 #include <Preferences.h>
 #include <SPI.h>
 #include <Wire.h>
